@@ -20,5 +20,6 @@ public class enumTest {
 				scanner.close();
 		}
 		System.out.println("나는 이승엽입니다");
+		System.out.println("나는 강승진입니다");
 	}
 }

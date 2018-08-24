@@ -19,5 +19,6 @@ public class enumTest {
 			if (scanner != null)
 				scanner.close();
 		}
+		System.out.println("나는 이승엽입니다");
 	}
 }
